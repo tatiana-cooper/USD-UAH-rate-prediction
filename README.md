@@ -25,7 +25,7 @@ This project requires Python 3+, Jupyter Notebook.
 Clone this repo to your local machine using  `https://github.com/tatiana-cooper/USD-UAH-rate-prediction.git`
 
 ### Setup
-Launch 'usd_rate_prediction.ipynb' using Jupyter Notebook.
+Launch `usd_rate_prediction.ipynb` using Jupyter Notebook.
 
 
 ## Features
